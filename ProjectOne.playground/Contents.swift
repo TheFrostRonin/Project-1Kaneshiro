@@ -22,4 +22,28 @@ celsius = (fahrenheit - 32) * (5/9)
 let weather = "Today is \(celsius) degrees celsius"
 print(weather)
 
+//boolean Variables Coding Challenge #1
+var numberOne = false
+var numberTwo = false
+
+var numberThree = numberOne == numberTwo
+
+//If Statement Coding Challenge #1
+
+var StringOne = "Excellent Anime"
+var StringTwo = "Horrible Anime"
+
+if StringOne > StringTwo
+{
+   print("Awesome Anime")
+}
+else
+{
+    print("Man another bad anime")
+}
+
+
+
+
+
 
