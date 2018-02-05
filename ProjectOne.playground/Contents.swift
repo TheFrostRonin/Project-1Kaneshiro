@@ -16,9 +16,10 @@ print(thirdString)
 
 //Variable Coding Challenge #2
 
-let celsius: float
-let fahrenheit: float = 50
+let celsius: Float
+let fahrenheit: Float = 50
 celsius = (fahrenheit - 32) * (5/9)
-let weather = "Today is \(fahrenheit) degrees celsius"
+let weather = "Today is \(celsius) degrees celsius"
 print(weather)
+
 
