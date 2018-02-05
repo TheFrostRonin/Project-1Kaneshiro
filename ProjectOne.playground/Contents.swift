@@ -18,3 +18,7 @@ print(thirdString)
 
 let celsius: float
 let fahrenheit: float = 50
+celsius = (fahrenheit - 32) * (5/9)
+let weather = "Today is \(fahrenheit) degrees celsius"
+print(weather)
+
