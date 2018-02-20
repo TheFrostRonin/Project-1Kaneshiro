@@ -3,6 +3,8 @@
 import UIKit
 
 var str = "Hello, playground"
+
+//Code reviewed on 2.19.18
 //Variable Coding Challenge #1
 var firstString: String
 firstString = "I Love"
